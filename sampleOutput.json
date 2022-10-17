@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": "New &#x27;Gridiron Heights&#x27; ",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/255287-giants-are-being-framed-by-a-rival--gridiron-heights",
+            "urlToImage": null,
+            "publishedAt": "2022-10-13T02:22:15.7588455Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news-au",
+                "name": "Google News (Australia)"
+            },
+            "author": "Elizabeth Cramsie",
+            "title": "Brisbane man charged with 300 offences after allegedly defrauding more than 160 people",
+            "description": "Police allege the man was in possession of drivers licences, passports, birth certificates and Medicare cards of more than 160 people after a 10-month investigation that spanned four states.",
+            "url": "https://www.abc.net.au/news/2022-10-13/brisbane-man-charged-fraud-offences/101531338",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/397da20c29880116b5d9e3b8b17677b3?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+            "publishedAt": "2022-10-13T02:06:44+00:00",
+            "content": "A Queensland man has been charged with more than 300 offences after allegedly defrauding more than 160 people and threatening two with murder.\r\n<ul><li>Some victims were unaware they'd been targeted … [+1780 chars]"
+        },
+        {
+            "source": {
+                "id": "the-huffington-post",
+                "name": "The Huffington Post"
+            },
+            "author": "Kimberley Richards",
+            "title": "Cynthia Bailey And Mike Hill Announce Separation: 'No One Is To Blame'",
+            "description": "The former \"Real Housewives of Atlanta\" star and the sportscaster have been married for two years.",
+            "url": "https://www.huffpost.com/entry/cynthia-bailey-mike-hill-separation-divorce_n_6346f3f6e4b0b7f89f5255af",
+            "urlToImage": "https://img.huffingtonpost.com/asset/6346f4963300002f00290d1f.jpeg?cache=lyiAtatZbO&ops=1200_630",
+            "publishedAt": "2022-10-12T20:46:50Z",
+            "content": "Former Real Housewives of Atlanta star Cynthia Bailey and sportscaster Mike Hill have announced their separation on Wednesday after two years of marriage. \r\nThe two shared a joint statement on both o… [+1402 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": "Josh Allen Interview ",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/252408-the-voncast-with-josh-allen",
+            "urlToImage": null,
+            "publishedAt": "2022-10-07T17:37:16.3633408Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": "George Pickens Blocking Drill ",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/249191-george-pickens-is-underrated",
+            "urlToImage": null,
+            "publishedAt": "2022-09-15T15:07:20.3702294Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-washington-times",
+                "name": "The Washington Times"
+            },
+            "author": "The Washington Times https://www.washingtontimes.com",
+            "title": "Latest Quizzes",
+            "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+            "url": "https://www.washingtontimes.com/quiz/",
+            "urlToImage": null,
+            "publishedAt": "2022-08-30T16:37:43.8583104Z",
+            "content": "Featured Quizzes\r\nTake the challenge to learn about the life and career highlights of famed nonagenarian actress and comedian Betty White.\r\n Shares \r\nRead our synopsis and correctly identify a litera… [+32510 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": null,
+            "title": "Daily Briefing",
+            "description": "The day's top stories, from sports to movies to politics to world events.",
+            "url": "https://profile.usatoday.com/newsletters/daily-briefing/",
+            "urlToImage": "https://profile.usatoday.com/newsletters/resources/usat/property/usatoday/newsletter-thumbs/8872UT-E-NLETTER02@2x.jpg",
+            "publishedAt": "2021-08-15T15:35:07+00:00",
+            "content": "The day's top stories, from sports to movies to politics to world events."
+        }
+    ]
+}
